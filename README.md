@@ -1,4 +1,4 @@
-# FrontSite
+# Angular 6 Cli - Multiple Template & Router Outlet
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
 
